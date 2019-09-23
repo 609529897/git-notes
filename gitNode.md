@@ -340,6 +340,7 @@ $ git checkout -- test.txt
 ### 添加远程库
 
 - 需要在 github 上创建仓库
+- 先关联后 `git add` `git commit`...
 - 按照提示指令关联远程仓库：
 
 ```bash
