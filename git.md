@@ -1278,11 +1278,19 @@ warning: You appear to have cloned an empty repository.
 
 > 每个仓库都可以有多个分支，一般 master 是主分支发布产品用的程序员很少动它，dev 是大家工作的分支，而你需要单独自己创建一个分支。最后跟 dev 分支 merge 并重新 push 到 dev。
 
+**修改代码提交**
+
+- git add .
+
+- git commit -m "hello git"
+
+- git push
 ---
 
 ## VSCode 使用 git
 
 - 使用 vscode 打开你正在使用 git 管理的仓库。
+
 - 点击加号等于 `git add`
 
 - 点击对号提交，等于`git commit`

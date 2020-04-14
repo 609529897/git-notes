@@ -55,3 +55,4 @@ $ git push origin master
 + Pull
 + .gitignore
 + README
++ push
